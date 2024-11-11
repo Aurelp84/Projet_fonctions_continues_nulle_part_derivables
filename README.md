@@ -1,4 +1,4 @@
-# Project continuous functions nowhere differential
+# Project fonctions continues nulle part dérivable
 
 Construction d'un générateur de fonction continue nulle part différentiable (Fonction de Weierstrass) en Python (comportement fractal). Preuve d'existence. Application du Lemme de Baire : preuve de la densité dans l'ensemble des fonctions continues.
 
