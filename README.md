@@ -1,4 +1,4 @@
-# Project fonctions continues nulle part dérivable
+# Project fonctions continues nulle part dérivables
 
 ## Auteur
 
@@ -32,4 +32,4 @@ Ce projet nécessite Python et les bibliothèques suivantes :
 
 Clonez le dépôt :
     
-    git clone https://github.com/Aurelp84/Projet_fonctions_continues_nulle_part_derivable.git
+    git clone https://github.com/Aurelp84/Projet_fonctions_continues_nulle_part_derivables.git
