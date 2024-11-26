@@ -1,17 +1,18 @@
 # Project fonctions continues nulle part dérivable
 
-Construction d'un générateur de fonction continue nulle part différentiable (Fonction de Weierstrass) en Python (comportement fractal). Preuve d'existence. Application du Lemme de Baire : preuve de la densité dans l'ensemble des fonctions continues.
-
-Ce dépôt explore les fonctions continues nulle part différentiables, une classe fascinante de fonctions qui sont continues partout mais sans dérivée en aucun point. Ces fonctions remettent en question les concepts traditionnels du calcul et sont des exemples de comportements « irréguliers » en analyse mathématique. Le projet inclut un script Python pour visualiser de telles fonctions, fournissant des informations sur leurs propriétés uniques et leur apparence.## Author
+## Auteur
 
 - Aurélien Pardo [Linkedin](www.linkedin.com/in/aurélien-pardo-24a02324b).
 
-## Contents
 
-- **Python Script**: Code pour générer et visualiser des exemples de fonctions continues nulle part différentiables, telles que la fonction de Weierstrass ou des trajectoires de mouvements browniens aléatoires.
-- **Examples**: Plusieurs exemples et paramètres pour générer différents types de fonctions nulle part différentiables.
+Construction d'un générateur de fonction continue nulle part différentiable (Fonction de Weierstrass) en Python (comportement fractal). Preuve d'existence. Application du Lemme de Baire : preuve de la densité dans l'ensemble des fonctions continues.
 
-Notebook : Un notebook interactif Jupyter expliquant les bases mathématiques et permettant aux utilisateurs d'expérimenter la génération de ces fonctions.
+Ce dépôt explore les fonctions continues nulle part différentiables, une classe fascinante de fonctions qui sont continues partout mais sans dérivée en aucun point. Ces fonctions remettent en question les concepts traditionnels du calcul et sont des exemples de comportements « irréguliers » en analyse mathématique. Le projet inclut un script Python pour visualiser de telles fonctions, fournissant des informations sur leurs propriétés uniques et leur apparence.
+
+## Contenus
+
+- **Script Python**: Code pour générer et visualiser des exemples de fonctions continues nulle part différentiables, telles que la fonction de Weierstrass ou des trajectoires de mouvements browniens aléatoires.
+- **Exemples**: Plusieurs exemples et paramètres pour générer différents types de fonctions continues nulle part dérivables.
 
 ## Contexte mathématique
 
@@ -27,13 +28,8 @@ Ce projet nécessite Python et les bibliothèques suivantes :
 - matplotlib and plotly (pour l'affichage graphique)
 - numpy (pour les opérations numériques)
 
-## Usage
+## Utilisation
 
 Clonez le dépôt :
     
     git clone https://github.com/Aurelp84/Continuous_Nowhere_Differentiable_Functions.git
-
-
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ajouter de nouveaux exemples de fonctions nulle part différentiables, optimiser le script ou améliorer les visualisations.
