@@ -11,7 +11,7 @@ Ce dépôt explore les fonctions continues nulle part différentiables, une clas
 - **Script Python**: Code pour générer et visualiser des exemples de fonctions continues nulle part différentiables reposant sur la fonction de Weierstrass.
 - **Exemples de visualisations**: Plusieurs exemples en faisant varier les paramètres pour générer différents types de fonctions continues nulle part dérivables.
 
-[Image](Weierstrass_a_0.7_b_24.png)
+![Image](Weierstrass_a_0.7_b_24.png)
 - **Fichier pdf**: Un document format pdf, explicitant et justifiant la démarche et les preuves d'existences de telles fonctions avec application du Lemme de Baire (preuve de la densité dans l'ensemble des fonctions continues).
 
 ## Prérequis
