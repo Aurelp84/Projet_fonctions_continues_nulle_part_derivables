@@ -1,4 +1,4 @@
-# Project fonctions continues nulle part dérivables
+# Projet fonctions continues nulle part dérivables
 
 ## Auteur
 
